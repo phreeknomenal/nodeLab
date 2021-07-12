@@ -1,0 +1,24 @@
+{
+    "chirpArray": [
+        {
+            "name": "Natasha",
+            "message": "Do svidanya!"
+        },
+        {
+            "name": "Steve",
+            "message": "Avengers, Assemble!"
+        },
+        {
+            "name": "Tony",
+            "message": "I am Ironman!"
+        },
+        {
+            "name": "Bruce",
+            "message": "hulk.. SMASH!"
+        },
+        {
+            "name": "Thor",
+            "message": "For Asgard!"
+        }
+    ]
+}
